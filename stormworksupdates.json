@@ -1,0 +1,18 @@
+[
+    {
+        "UpdateStageName": "Updating",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "1247090",
+        "UpdateSourceArgs": "573090",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
